@@ -21,7 +21,7 @@ repository               : "ashutoshramola/ashutoshramola.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "anime.jpg"
   name             : "Ashutosh Ramola"
   pronouns         : # example: "she/her"  
   bio              : "Full Stack Aerospace Engineer specializing in propulsion systems, flight controls, and aircraft development"
