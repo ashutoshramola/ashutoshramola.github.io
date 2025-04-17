@@ -1,42 +1,35 @@
 ---
 permalink: /about/
 title: "About Me"
-excerpt: "About Ashutosh Ramola"
+excerpt: "About Ashutosh Ramola, Aerospace Engineer, Developer, and lifelong learner."
 author_profile: true
 redirect_from: 
   - /about.html
 ---
 
-# About Me
-
 Hi, I'm **Ashutosh Ramola** – an Aerospace Engineer, Full Stack Developer, and passionate learner.
 
 With a background in propulsion systems, flight controls, and aircraft development, I currently work as a Senior Associate Engineer at Greenko Group, specializing in integrating advanced aerospace systems. My journey is driven by curiosity, creativity, and a desire to make a positive impact through technology.
 
-## Professional Summary
-- **Current Role:** Senior Associate Engineer, Greenko Group
-- **Expertise:** Propulsion, flight controls, electric propulsion, flight computers, control architectures
-- **Passion:** Building innovative solutions, sharing knowledge, and continuous learning
+**Current Role:** Senior Associate Engineer, Greenko Group  
+**Expertise:** Propulsion, flight controls, electric propulsion, flight computers, control architectures  
+**Passion:** Building innovative solutions, sharing knowledge, and continuous learning
 
-## Timeline
+### Timeline
 - **2022–Present:** Senior Associate Engineer, Greenko Group
 - **2020–2022:** M.S. in Propulsion Engineering, Moscow Aviation Institute (MAI)
 - **2016–2020:** B.Tech in Aerospace Engineering (Avionics), UPES
 
-## Fun Facts
+### Fun Facts
 - I enjoy hiking, reading, and exploring new technologies.
 - I love collaborating on open-source projects and writing technical blogs.
 - My favorite quote: _"The best way to predict the future is to invent it."_
 
-## More
+**More:**
 - [Resume / CV](/cv/)
 - [Portfolio](/_portfolio/)
 - [Blog](/archive-layout-with-content/)
 - [Contact](/#contact)
-
----
-
-Feel free to connect with me or explore the rest of my site!
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 

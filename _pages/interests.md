@@ -2,9 +2,8 @@
 layout: page
 title: "Interests & Side Projects"
 permalink: /interests/
+author_profile: true
 ---
-
-# Interests & Side Projects
 
 ## Personal Interests
 - 📚 Reading books (technology, fiction, non-fiction)
