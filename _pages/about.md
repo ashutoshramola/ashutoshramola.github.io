@@ -7,29 +7,48 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm **Ashutosh Ramola** – an Aerospace Engineer, Full Stack Developer, and passionate learner.
+<div class="section" style="background:#fff;">
+  <div class="section-header">About Me</div>
+  <div class="divider"></div>
+  <p>Hi, I'm <b>Ashutosh Ramola</b> – an Aerospace Engineer, Full Stack Developer, and passionate learner.</p>
+  <ul>
+    <li><b>Current Role:</b> Senior Associate Engineer, Greenko Group</li>
+    <li><b>Expertise:</b> Propulsion, flight controls, electric propulsion, flight computers, control architectures</li>
+    <li><b>Passion:</b> Building innovative solutions, sharing knowledge, and continuous learning</li>
+  </ul>
+  <p>With a background in propulsion systems, flight controls, and aircraft development, I currently work as a Senior Associate Engineer at Greenko Group, specializing in integrating advanced aerospace systems. My journey is driven by curiosity, creativity, and a desire to make a positive impact through technology.</p>
+</div>
 
-With a background in propulsion systems, flight controls, and aircraft development, I currently work as a Senior Associate Engineer at Greenko Group, specializing in integrating advanced aerospace systems. My journey is driven by curiosity, creativity, and a desire to make a positive impact through technology.
+<div class="section">
+  <div class="section-header">Timeline</div>
+  <div class="divider"></div>
+  <ul>
+    <li><b>2022–Present:</b> Senior Associate Engineer, Greenko Group</li>
+    <li><b>2020–2022:</b> M.S. in Propulsion Engineering, Moscow Aviation Institute (MAI)</li>
+    <li><b>2016–2020:</b> B.Tech in Aerospace Engineering (Avionics), UPES</li>
+  </ul>
+</div>
 
-**Current Role:** Senior Associate Engineer, Greenko Group  
-**Expertise:** Propulsion, flight controls, electric propulsion, flight computers, control architectures  
-**Passion:** Building innovative solutions, sharing knowledge, and continuous learning
+<div class="section" style="background:#fff;">
+  <div class="section-header">Fun Facts</div>
+  <div class="divider"></div>
+  <ul>
+    <li>I enjoy hiking, reading, and exploring new technologies.</li>
+    <li>I love collaborating on open-source projects and writing technical blogs.</li>
+    <li>Favorite quote: <i>"The best way to predict the future is to invent it."</i></li>
+  </ul>
+</div>
 
-### Timeline
-- **2022–Present:** Senior Associate Engineer, Greenko Group
-- **2020–2022:** M.S. in Propulsion Engineering, Moscow Aviation Institute (MAI)
-- **2016–2020:** B.Tech in Aerospace Engineering (Avionics), UPES
-
-### Fun Facts
-- I enjoy hiking, reading, and exploring new technologies.
-- I love collaborating on open-source projects and writing technical blogs.
-- My favorite quote: _"The best way to predict the future is to invent it."_
-
-**More:**
-- [Resume / CV](/cv/)
-- [Portfolio](/_portfolio/)
-- [Blog](/archive-layout-with-content/)
-- [Contact](/#contact)
+<div class="section">
+  <div class="section-header">More</div>
+  <div class="divider"></div>
+  <ul>
+    <li><a href="/cv/">Resume / CV</a></li>
+    <li><a href="/_portfolio/">Portfolio</a></li>
+    <li><a href="/archive-layout-with-content/">Blog</a></li>
+    <li><a href="/#contact">Contact</a></li>
+  </ul>
+</div>
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 

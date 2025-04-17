@@ -100,6 +100,20 @@ $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
+// --- Custom Modern Palette ---
+$primary-color-modern: #0057b8; // Deep blue
+$secondary-color-modern: #ffb400; // Vibrant yellow
+$accent-color-modern: #ff5a36; // Modern orange
+$background-color-modern: #f9f9fb; // Light gray background
+$text-color-modern: #22223b; // Dark blue-gray for text
+$link-color-modern: $primary-color-modern;
+$link-color-hover-modern: darken($primary-color-modern, 10%);
+$button-radius: 2em;
+$card-shadow: 0 4px 16px rgba(0,0,0,0.07);
+$section-bg-1: #fff;
+$section-bg-2: #f3f6fa;
+$section-bg-3: #eaf6ff;
+// --- End Custom Palette ---
 
 /* links */
 $link-color                 : $info-color;
