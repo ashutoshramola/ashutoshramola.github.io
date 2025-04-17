@@ -1,39 +1,42 @@
 ---
-permalink: /
+permalink: /about/
 title: "About Me"
-excerpt: "About me"
+excerpt: "About Ashutosh Ramola"
 author_profile: true
 redirect_from: 
-  - /about/
   - /about.html
 ---
 
-I am a Full Stack Aerospace Engineer with expertise in propulsion systems, flight controls, and aircraft development. Currently working as a Senior Associate Engineer at Greenko Group, I specialize in integrating complex aerospace systems including electric propulsion, flight computers, and control architectures.
+# About Me
 
-## Research Interests
-* Unmanned Aerial Systems
-* Propulsion Systems and Thermal Management
-* Flight Control Systems and Avionics
-* Computational Fluid Dynamics
-* Robotics and Automation
+Hi, I'm **Ashutosh Ramola** – an Aerospace Engineer, Full Stack Developer, and passionate learner.
 
-## Current Work
-At Greenko Group, I lead research and development of unmanned aerial systems for inspection in the renewable sector, focusing on:
-* Mission planning for drone-based inspection in wind and solar power plants
-* Development of GPS-denied drones for indoor inspection
-* Integration of sensor fusion and LIDAR technologies
-* Implementation of automation using ROS2, NAV2, PX4, and Nvidia Isaac ROS platforms
+With a background in propulsion systems, flight controls, and aircraft development, I currently work as a Senior Associate Engineer at Greenko Group, specializing in integrating advanced aerospace systems. My journey is driven by curiosity, creativity, and a desire to make a positive impact through technology.
 
-## Education
-* M.S. in Propulsion Engineering, Moscow Aviation Institute (MAI), 2022 (GPA: 4.0/4.0)
-* B.Tech in Aerospace Engineering with specialization in Avionics, University of Petroleum and Energy Studies (UPES), 2020
+## Professional Summary
+- **Current Role:** Senior Associate Engineer, Greenko Group
+- **Expertise:** Propulsion, flight controls, electric propulsion, flight computers, control architectures
+- **Passion:** Building innovative solutions, sharing knowledge, and continuous learning
 
-## Technical Skills
-* **Languages:** Python (OpenCV, NumPy, TensorFlow, PyTorch, CUDA), C++, MATLAB-Simulink, Julia, Fortran
-* **UAV Technologies:** PX4, Ardupilot, ROS1/ROS2, Nvidia Isaac ROS
-* **CAD/CAE:** Ansys Workbench, Solidworks, OpenFoam, Simscale
-* **Analysis Tools:** Xflr5, Xfoil, OpenVSP, XROTOR, QPROP
-* **Project Management:** Git, PMS, Notion
+## Timeline
+- **2022–Present:** Senior Associate Engineer, Greenko Group
+- **2020–2022:** M.S. in Propulsion Engineering, Moscow Aviation Institute (MAI)
+- **2016–2020:** B.Tech in Aerospace Engineering (Avionics), UPES
+
+## Fun Facts
+- I enjoy hiking, reading, and exploring new technologies.
+- I love collaborating on open-source projects and writing technical blogs.
+- My favorite quote: _"The best way to predict the future is to invent it."_
+
+## More
+- [Resume / CV](/cv/)
+- [Portfolio](/_portfolio/)
+- [Blog](/archive-layout-with-content/)
+- [Contact](/#contact)
+
+---
+
+Feel free to connect with me or explore the rest of my site!
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 

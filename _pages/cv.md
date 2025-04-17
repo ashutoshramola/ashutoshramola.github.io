@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume / CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Resume / CV
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
+- **M.S. in Propulsion Engineering** – Moscow Aviation Institute (MAI), 2022 (GPA: 4.0/4.0)
+- **B.Tech in Aerospace Engineering (Avionics)** – UPES, 2020
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Work Experience
+- **2022–Present:** Senior Associate Engineer, Greenko Group
+  - Lead R&D of unmanned aerial systems for renewable sector inspections
+  - Mission planning, GPS-denied drones, sensor fusion, automation (ROS2, PX4, Nvidia Isaac)
+- **2020–2022:** Graduate Researcher, Moscow Aviation Institute
+  - Research in propulsion systems, CFD, and flight controls
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Technical Skills
+- **Languages:** Python (OpenCV, NumPy, TensorFlow, PyTorch, CUDA), C++, MATLAB/Simulink, Julia, Fortran
+- **UAV Technologies:** PX4, Ardupilot, ROS1/ROS2, Nvidia Isaac ROS
+- **CAD/CAE:** Ansys Workbench, Solidworks, OpenFoam, Simscale
+- **Analysis Tools:** Xflr5, Xfoil, OpenVSP, XROTOR, QPROP
+- **Project Management:** Git, Notion
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Certifications
+- UAV Systems Certification – [Certification Body], 2021
+- Advanced Python for Engineers – [Certification Body], 2020
+
+## Download
+[Download PDF Resume](/resume.pdf)
+
+---
+
+# Printable Version
+
+This page is printer-friendly for recruiters and hiring managers.
